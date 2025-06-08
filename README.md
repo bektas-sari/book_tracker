@@ -1,7 +1,4 @@
-# 📚 Book Tracker
-
-[![Flutter Version](https://img.shields.io/badge/Flutter-v3.32.2-blue?logo=flutter\&logoColor=white)](https://flutter.dev)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+# 📚 Book Tracker (Flutter APP)
 
 ## 🎯 Project Overview
 
